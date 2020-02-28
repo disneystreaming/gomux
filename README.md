@@ -9,7 +9,7 @@ example.go:
 package main
 import (
 	"os"
-	"github.com/dss-osc/gomux"
+	"github.com/disneystreaming/gomux"
 )
 func main() {
 	sessionName := "SESSION_NAME"
