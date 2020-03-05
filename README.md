@@ -1,7 +1,7 @@
 gomux
 =====
 
-Go wrapper to create tmux sessions, windows and panes. This is a minimal fork of `wricardo/gomux` to meet our specific needs.
+Go wrapper to create tmux sessions, windows and panes. This is a minimal fork of `wricardo/gomux` to meet our specific needs in [ssm-helpers](https://github.com/disneystreaming/ssm-helpers).
 
 ### Example
 example.go:
